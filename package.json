@@ -1,0 +1,17 @@
+{
+  "name": "wood-rabbitmq",
+  "version": "1.0.5",
+  "description": "wood-rabbitmq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wood-rabbitmq"
+  ],
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  },
+  "author": "guohualin",
+  "license": "ISC"
+}
